@@ -102,6 +102,10 @@ hr {
   bottom: 300px;
 }
 
+.pic {
+  width: 100px;
+}
+
 .data {
   width: 15%;
   float: left;
